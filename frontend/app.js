@@ -1,4 +1,4 @@
-const API_URL = "https://your-backend.onrender.com"; // Change to your Render URL after backend deployment
+const API_URL = "http://localhost:5000"; // Change to your Render URL after backend deployment
 
 const loginForm = document.getElementById("loginForm");
 const registerForm = document.getElementById("registerForm");
